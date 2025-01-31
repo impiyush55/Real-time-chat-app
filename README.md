@@ -15,12 +15,8 @@
 - Visual Studio (recommended) or other C++ IDEs
 
 ### Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Rashid7520/real-time-chat-application.git
-   ```
-2. Install Socket.IO library.
-3. Open the project in Visual Studio and build the solution.
+1. Install Socket.IO library.
+2. Open the project in Visual Studio and build the solution.
 
 ### Usage
 1. Start the server by running `server.cpp`.
